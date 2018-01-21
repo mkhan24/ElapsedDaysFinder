@@ -3,10 +3,12 @@ A simple java command line application that takes a start & end date and finds o
 
 ## Environment
 Java 1.8
+
 Gradle
 
 ## Build Instructions
 Build with:
+
 $ gradle clean build
 
 This should produce an artifact called ElapsedDaysFinder.jar under <project-home>/build/libs
@@ -14,6 +16,7 @@ This should produce an artifact called ElapsedDaysFinder.jar under <project-home
 ## Launch Instructions
 
 Launch using:
+
 java -jar ElapsedDaysFinder.jar
 
 ## Shutdown
