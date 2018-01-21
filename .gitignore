@@ -1,3 +1,6 @@
+#Gradle specific
+!build/libs
+
 # Compiled class file
 *.class
 
