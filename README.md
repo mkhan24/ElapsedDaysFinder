@@ -11,7 +11,7 @@ Build with:
 
 $ gradle clean build
 
-This should produce an artifact called ElapsedDaysFinder.jar under <project-home>/build/libs
+This should produce an artifact called ElapsedDaysFinder.jar under $project-home/build/libs
 
 ## Launch Instructions
 
