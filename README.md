@@ -13,7 +13,7 @@ $ gradle clean build
 
 This should produce an artifact called ElapsedDaysFinder.jar under $project-home/build/libs
 
-Alternatively, there is a pre-built artifact under $project-home/artifact directory in this project which can simply be launched with the instructions below.
+Alternatively, there is a [pre-built artifact](https://github.com/mkhan24/ElapsedDaysFinder/blob/master/artifact/ElapsedDaysFinder.jar) which can simply be launched with the instructions below.
 
 ## Launch Instructions
 
